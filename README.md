@@ -5,6 +5,8 @@ Happy exploring 🧭!
 * [OpenAI API](https://beta.openai.com/playground)
 * [OpenAI Codex Javascript Sandbox](https://beta.openai.com/codex-javascript-sandbox)
 
+![Awesome OpenAI Codex image](awesome-codex.png)
+
 ## Contributing
 Feel free to open a PR adding any relevant links to articles, tweets, repos, videos, etc...
 
