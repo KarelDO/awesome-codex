@@ -5,10 +5,13 @@ Happy exploring 🧭!
 * [OpenAI API](https://beta.openai.com/playground)
 * [OpenAI Codex Javascript Sandbox](https://beta.openai.com/codex-javascript-sandbox)
 
-![Awesome OpenAI Codex image](awesome-codex.png)
+![Awesome OpenAI Codex image](awesome-codex.png)  
+Also check out [awesome GPT3](https://github.com/elyase/awesome-gpt3), for a list of GPT3 demos and products.
 
 ## Contributing
-Feel free to open a PR adding any relevant links to articles, tweets, repos, videos, etc...
+Feel free to open a PR adding any relevant links to articles, tweets, repos, videos, etc...  
+
+Any questions? Message me on [Twitter](https://twitter.com/KarelDoostrlnck).
 
 ## Demos
 * [Creating a space game with OpenAI Codex](https://www.youtube.com/watch?v=Zm9B-DvwOgw&list=PLOXw6I10VTv_FhQbbvYh1FvbiaPf43Ve2&index=3)
