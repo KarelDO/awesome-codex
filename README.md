@@ -60,6 +60,7 @@ Any questions? Message me on [Twitter](https://twitter.com/KarelDoostrlnck).
 * [Airgift - Manipulate 3D and AR content using Codex](https://twitter.com/HeySaiK/status/1429791743558307845)
 * [Anteam - Extracting insights from data](https://twitter.com/aryxnsharma/status/1426545605837426688)
 * [Auto-docstring - adds Python docstrings to your functions](https://twitter.com/scottleibrand/status/1430753899460194310)
+* [Vim Codex - Enables access to Codex from within Vim](https://github.com/tom-doerr/vim_codex)
 ## Repositories
 
 ## Articles
