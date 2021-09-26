@@ -19,6 +19,7 @@ Any questions? Message me on [Twitter](https://twitter.com/KarelDoostrlnck).
 * [Data science with OpenAI Codex](https://www.youtube.com/watch?v=Ru5fQZ714x8&list=PLOXw6I10VTv_FhQbbvYh1FvbiaPf43Ve2&index=4)
 * [Interactive data analysis notebook](https://twitter.com/mick_ver/status/1433007625013186564)
 * [Writing a neural network in Python](https://twitter.com/lxuechen/status/1431473450351161350)
+* [Writing a Hugginface sentimental analysis model](https://twitter.com/osanseviero/status/1438747036254449667)
 
 ### Manipulating programs using natural language
 * [Manipulate Word documents with Codex](https://www.youtube.com/watch?v=-Dpl2awseZU&list=PLOXw6I10VTv_FhQbbvYh1FvbiaPf43Ve2&index=5)
@@ -52,7 +53,7 @@ Any questions? Message me on [Twitter](https://twitter.com/KarelDoostrlnck).
 ### Miscellaneous 
 * [Giving OpenAI Codex a First Grade Math Test](https://www.youtube.com/watch?v=fRyTycXMlzA&list=PLOXw6I10VTv_FhQbbvYh1FvbiaPf43Ve2&index=7)
 
-## Products & tools
+### Products & tools
 * [Github Copilot](https://copilot.github.com)
 * [Cogram.ai - data science code assistant](https://twitter.com/gdb/status/1435269195248414721)
 * [Figstck - VSCode extention for documenting code](https://twitter.com/FigstackApp/status/1432782356117655558)
@@ -61,6 +62,6 @@ Any questions? Message me on [Twitter](https://twitter.com/KarelDoostrlnck).
 * [Anteam - Extracting insights from data](https://twitter.com/aryxnsharma/status/1426545605837426688)
 * [Auto-docstring - adds Python docstrings to your functions](https://twitter.com/scottleibrand/status/1430753899460194310)
 * [Vim Codex - Enables access to Codex from within Vim](https://github.com/tom-doerr/vim_codex)
-## Repositories
 
-## Articles
+### Repositories
+* [Computational chemistry natural language command line interface](https://github.com/whitead/nlcc)
