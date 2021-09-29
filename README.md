@@ -62,6 +62,7 @@ Any questions? Message me on [Twitter](https://twitter.com/KarelDoostrlnck).
 * [Anteam - Extracting insights from data](https://twitter.com/aryxnsharma/status/1426545605837426688)
 * [Auto-docstring - adds Python docstrings to your functions](https://twitter.com/scottleibrand/status/1430753899460194310)
 * [Vim Codex - Enables access to Codex from within Vim](https://github.com/tom-doerr/vim_codex)
+* [Replit - JaveScript code explainer](https://blog.replit.com/codex)
 
 ### Repositories
 * [Computational chemistry natural language command line interface](https://github.com/whitead/nlcc)
