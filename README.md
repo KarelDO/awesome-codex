@@ -63,6 +63,7 @@ Any questions? Message me on [Twitter](https://twitter.com/KarelDoostrlnck).
 * [Auto-docstring - adds Python docstrings to your functions](https://twitter.com/scottleibrand/status/1430753899460194310)
 * [Vim Codex - Enables access to Codex from within Vim](https://github.com/tom-doerr/vim_codex)
 * [Replit - JaveScript code explainer](https://blog.replit.com/codex)
+* [Codex Readme - Readme generator](https://github.com/tom-doerr/codex-readme)
 
 ### Repositories
 * [Computational chemistry natural language command line interface](https://github.com/whitead/nlcc)
