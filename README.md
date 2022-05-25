@@ -35,6 +35,7 @@ Any questions? Message me on [Twitter](https://twitter.com/KarelDoostrlnck).
 * [Generating Bash scripts](https://twitter.com/CristiVlad25/status/1430111553387442182)
 * [Using Codex to find a bug in C++ code](https://twitter.com/albertvaka/status/1428138127198130176)
 * [Writing a web scraper](https://twitter.com/harishkgarg/status/1425816754391961605)
+* [Converting Python code to C++](https://github.com/alxschwrz/codex_py2cpp)
 
 ### Front-end/UI/UX
 * [Generating SwiftUI](https://twitter.com/mralexhay/status/1433517706360377346)
