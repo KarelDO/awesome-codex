@@ -29,6 +29,7 @@ Any questions? Message me on [Twitter](https://twitter.com/KarelDoostrlnck).
 * [Converting Python to Ruby with OpenAI Codes](https://www.youtube.com/watch?v=Iq3rDFZOorw&list=PLOXw6I10VTv_FhQbbvYh1FvbiaPf43Ve2&index=6)
 * [Explain Assembly](https://twitter.com/CristiVlad25/status/1432017112885833734)
 * [Code synthesis from unit tests](https://twitter.com/narphorium/status/1432883931053846536)
+* [CodexDB: Generating code for SQL processing](https://itrummer.github.io/CodexDB/)
 * [Generating SQL queries 1](https://twitter.com/mustafaergisi/status/1432686105082613764)
 * [Generating SQL queries 2](https://twitter.com/rishdotblog/status/1426131270313005063)
 * [Refactoring tool](https://twitter.com/ColemanHindes/status/1425225551451668480)
