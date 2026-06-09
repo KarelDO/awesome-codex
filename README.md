@@ -56,6 +56,8 @@ Any questions? Message me on [Twitter](https://twitter.com/KarelDoostrlnck).
 * [Giving OpenAI Codex a First Grade Math Test](https://www.youtube.com/watch?v=fRyTycXMlzA&list=PLOXw6I10VTv_FhQbbvYh1FvbiaPf43Ve2&index=7)
 
 ### Products & tools
+
+- [TaskState Vault](https://github.com/zhaoyeyu/taskstate-vault) - Local-first persistent project state, task graph, execution queue, layered indexes, and a read-only UI for long-running Codex work.
 * [Github Copilot](https://copilot.github.com)
 * [Cogram.ai - data science code assistant](https://twitter.com/gdb/status/1435269195248414721)
 * [Figstck - VSCode extention for documenting code](https://twitter.com/FigstackApp/status/1432782356117655558)
