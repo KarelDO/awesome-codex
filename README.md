@@ -66,6 +66,7 @@ Any questions? Message me on [Twitter](https://twitter.com/KarelDoostrlnck).
 * [Vim Codex - Enables access to Codex from within Vim](https://github.com/tom-doerr/vim_codex)
 * [Replit - JaveScript code explainer](https://blog.replit.com/codex)
 * [Codex Readme - Readme generator](https://github.com/tom-doerr/codex-readme)
+* [Codex Skin Gallery - Public-safe Codex skin packs with downloadable themes, install prompts and restore guidance](https://codex-theme-gallery.howardhua.chatgpt.site/)
 * [Zsh Codex - AI in the command line](https://github.com/tom-doerr/zsh_codex)
 * [Skriptorium - Documentation generation cli](https://github.com/sigma-andex/skriptorium)
 
