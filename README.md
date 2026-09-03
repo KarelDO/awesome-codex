@@ -68,7 +68,7 @@ Any questions? Message me on [Twitter](https://twitter.com/KarelDoostrlnck).
 * [Codex Readme - Readme generator](https://github.com/tom-doerr/codex-readme)
 * [Zsh Codex - AI in the command line](https://github.com/tom-doerr/zsh_codex)
 * [Skriptorium - Documentation generation cli](https://github.com/sigma-andex/skriptorium)
-* [ClawMetry - Self-hosted observability and kill switch for Codex CLI and other coding agents](https://github.com/vivekchand/clawmetry)
+* [ClawMetry - Self-hosted observability and kill switch for Codex CLI and other coding agents](https://github.com/vivekchand/clawmetry) ([website](https://clawmetry.com))
 
 ### Repositories
 * [Computational chemistry natural language command line interface](https://github.com/whitead/nlcc)
