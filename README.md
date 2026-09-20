@@ -69,5 +69,8 @@ Any questions? Message me on [Twitter](https://twitter.com/KarelDoostrlnck).
 * [Zsh Codex - AI in the command line](https://github.com/tom-doerr/zsh_codex)
 * [Skriptorium - Documentation generation cli](https://github.com/sigma-andex/skriptorium)
 
+- [NextReset](https://nextreset.ai/) - Independent, source-linked Codex reset history and official incident tracking.
+
+
 ### Repositories
 * [Computational chemistry natural language command line interface](https://github.com/whitead/nlcc)
